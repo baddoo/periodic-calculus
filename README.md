@@ -1,2 +1,3 @@
-# periodic-calculus
-Codes for the paper "A calculus for flows in periodic domains"
+# A calculus for flows in periodic domains
+
+Codes for the paper "A calculus for flows in periodic domains".
